@@ -1,3 +1,5 @@
+# I asked chatgpt wroten CircularBuffer in C and C++
+
 # cpp_examples
 c++ examples code
 ```c
